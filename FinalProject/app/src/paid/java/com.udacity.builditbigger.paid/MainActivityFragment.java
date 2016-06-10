@@ -1,13 +1,14 @@
-package com.udacity.gradle.builditbigger;
+package com.udacity.builditbigger.paid;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import com.udacity.gradle.builditbigger.R;
 
 /**
- * A placeholder fragment containing a simple view.
+ * Created by prashant on 6/10/16.
  */
 public class MainActivityFragment extends Fragment {
 
